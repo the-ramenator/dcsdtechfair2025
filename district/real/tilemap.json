@@ -983,7 +983,7 @@
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
- "tileheight":120,
+ "tileheight":100,
  "tilesets":[
         {
          "columns":8,
@@ -995,7 +995,7 @@
          "name":"AllAssets",
          "spacing":10,
          "tilecount":48,
-         "tileheight":120,
+         "tileheight":100,
          "tiles":[
                 {
                  "id":41,
@@ -1048,9 +1048,9 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":120
+         "tilewidth":100
         }],
- "tilewidth":120,
+ "tilewidth":100,
  "type":"map",
  "version":"1.10",
  "width":30
