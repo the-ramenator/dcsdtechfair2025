@@ -1974,7 +1974,7 @@
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
- "tileheight":50,
+ "tileheight":52,
  "tilesets":[
         {
          "columns":13,
@@ -1986,7 +1986,7 @@
          "name":"MAINAssets-removebg",
          "spacing":0,
          "tilecount":78,
-         "tileheight":50,
+         "tileheight":52,
          "tiles":[
                 {
                  "id":8,
@@ -2048,9 +2048,9 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":50
+         "tilewidth":52
         }],
- "tilewidth":50,
+ "tilewidth":52,
  "type":"map",
  "version":"1.10",
  "width":30
