@@ -1986,7 +1986,7 @@
          "name":"MAINAssets-removebg",
          "spacing":0,
          "tilecount":78,
-         "tileheight":150,
+         "tileheight":52,
          "tiles":[
                 {
                  "id":8,
@@ -2048,7 +2048,7 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":150
+         "tilewidth":52
         }],
  "tilewidth":150,
  "type":"map",
