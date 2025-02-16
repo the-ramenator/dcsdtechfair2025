@@ -73,8 +73,8 @@
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 1, 2, 2, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 21, 22, 22, 22, 22, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 5, 0, 21, 22, 22, 22, 22, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -201,8 +201,43 @@
          "startx":-16,
          "starty":-32,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":48,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"Door",
+         "objects":[
+                {
+                 "gid":96,
+                 "height":128,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2815.94143484627,
+                 "y":-1536
+                }, 
+                {
+                 "gid":76,
+                 "height":128,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2815.94143484627,
+                 "y":-1663.96486090776
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -265,8 +300,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":5,
+ "nextlayerid":6,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
